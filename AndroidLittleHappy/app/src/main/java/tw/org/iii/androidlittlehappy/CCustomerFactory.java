@@ -13,11 +13,10 @@ public class CCustomerFactory {
         LoadData();
     }
 
-    // CCustomers(String id, String name, String email, String password)
+    // CCustomers(int ID, String Name, String passwd, String Email, String NickName, String Mascot, String DefaultStar, String DefaultTime, String Star)
     private void LoadData(){
-        list.add(new CCustomers("","marco001","test001@gmail.com",""));
-        list.add(new CCustomers("rafm0913","Dale","rafm0913@gmail.com","test123"));
-
+        list.add(new CCustomers(1,"","","test001@gmail.com","Marco","0","3","5","5"));
+        list.add(new CCustomers(2,"ggg123","321","test002@gmail.com","JSON","0","3","5","5"));
     }
 
     public CCustomers[] GetAll(){

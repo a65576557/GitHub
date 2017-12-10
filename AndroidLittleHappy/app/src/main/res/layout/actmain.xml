@@ -1,50 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<LinearLayout android:layout_width="match_parent"
+<tw.org.iii.androidlittlehappy.MapWrapperLayout android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-
+    android:id="@+id/map_linear_layout"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <FrameLayout
 
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="3"
+        android:layout_weight="1"
         android:id="@+id/content">
 
 
     </FrameLayout>
 
 
-    <LinearLayout
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="7"-->
+        <!--android:orientation="horizontal">-->
+
+        <!--<Button-->
+            <!--android:id="@+id/btnSearchActivity"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="搜尋"-->
+            <!--android:textSize="30dp" />-->
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="發起活動"-->
+            <!--android:textSize="30dp"-->
+            <!--android:id="@+id/btnNewActivity"/>-->
+
+    <!--</LinearLayout>-->
+<!--    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="7"
         android:orientation="horizontal">
-
-        <Button
-            android:id="@+id/btnSearchActivity"
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="搜尋"
-            android:textSize="30dp" />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="發起活動"
+            android:text="使用者"
             android:textSize="30dp"
-            android:id="@+id/btnNewActivity"/>
-
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="7"
-        android:orientation="horizontal">
+            android:id="@+id/lblUserName"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -52,6 +59,9 @@
             android:text="個資"
             android:textSize="30dp"
             android:id="@+id/btnProfile"/>
+
+
+
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -68,17 +78,17 @@
             android:id="@+id/btnLogOut"/>
 
 
-    </LinearLayout>
+    </LinearLayout>-->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="7"
+        android:layout_weight="9"
 
         >
         <android.support.design.widget.BottomNavigationView
             android:id="@+id/navigation"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_gravity="bottom"
             android:background="?android:attr/windowBackground"
             app:menu="@menu/navigation" />
@@ -86,4 +96,4 @@
 
 
     </LinearLayout>
-</LinearLayout>
+</tw.org.iii.androidlittlehappy.MapWrapperLayout>
