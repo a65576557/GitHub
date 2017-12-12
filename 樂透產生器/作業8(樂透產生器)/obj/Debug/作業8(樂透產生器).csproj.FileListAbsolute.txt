@@ -1,0 +1,27 @@
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).exe.config
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).exe
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).pdb
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).csprojResolveAssemblyReference.cache
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8_樂透產生器_.Form1.resources
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8_樂透產生器_.Properties.Resources.resources
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).csproj.GenerateResource.Cache
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).exe
+E:\資策會\資策會\C#程式語言\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).pdb
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).exe.config
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).exe
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).pdb
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).csprojResolveAssemblyReference.cache
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\obj\Debug\作業8_樂透產生器_.Form1.resources
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\obj\Debug\作業8_樂透產生器_.Properties.Resources.resources
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).csproj.GenerateResource.Cache
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).exe
+D:\google雲端\資策會\C#程式語言\作業8(樂透產生器) (1)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).pdb
+F:\作業8(樂透產生器)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).exe.config
+F:\作業8(樂透產生器)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).exe
+F:\作業8(樂透產生器)\作業8(樂透產生器)\bin\Debug\作業8(樂透產生器).pdb
+F:\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).csprojResolveAssemblyReference.cache
+F:\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8_樂透產生器_.Form1.resources
+F:\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8_樂透產生器_.Properties.Resources.resources
+F:\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).csproj.GenerateResource.Cache
+F:\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).exe
+F:\作業8(樂透產生器)\作業8(樂透產生器)\obj\Debug\作業8(樂透產生器).pdb
